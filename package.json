@@ -1,0 +1,24 @@
+{
+  "name": "pokedex-boot-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resul-elezi/pokedex-boot-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resul-elezi/pokedex-boot-dev/issues"
+  },
+  "homepage": "https://github.com/resul-elezi/pokedex-boot-dev#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "typescript": "^5.9.2"
+  }
+}
